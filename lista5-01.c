@@ -8,10 +8,10 @@ int main(void)
 
         printf("Numeros de 1 a 20\n");
 
-            for (i = 1; i <= 20; i++)
+        for (i = 1; i <= 20; i++)
 
-                printf("\n%d", i);
-                printf("\n\n");
+        printf("\n%d", i);
+        printf("\n\n");
 
         system("pause");
 
